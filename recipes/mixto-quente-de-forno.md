@@ -1,4 +1,4 @@
-#[MIXTO QUENTE DE FORNO] https://www.facebook.com/MilReceitas/photos/a.1567315120242528.1073741831.1566873700286670/1567312783576095/?type=3)
+#[MIXTO QUENTE DE FORNO] (https://www.facebook.com/MilReceitas/photos/a.1567315120242528.1073741831.1566873700286670/1567312783576095/?type=3)
 
 ##INGREDIENTES
 
@@ -18,3 +18,6 @@
 1. Forre o fundo com 6 fatias de pão de forma
 1. Colocar metade do molho de tomate temperado, presunto, camada de requeijão, metade da mussarela, restante do pão de forma, molho de tomate, creme de leite, mussarela, tomate em rodelas, orégano
 1. Leve o refratário ao forno até a mussarela derreter (fiz no micro-ondas)
+
+
+## BOM APETITE.
