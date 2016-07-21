@@ -23,5 +23,5 @@
 
 
 ## BOM APETITE. Siganos em nossas redes sociais
-![facebook](https://www.facebook.com/MilReceitas "facebook")
-![instagram](https://www.instagram.com/milreceitas "instagram")
+[FACEBOOK](https://www.facebook.com/MilReceitas)
+[INSTAGRAM](https://www.instagram.com/milreceitas)
