@@ -20,5 +20,3 @@
 ## BOM APETITE.
 
 ### [FACEBOOK](https://www.facebook.com/MilReceitas) -- [INSTAGRAM](https://www.instagram.com/milreceitas)
-
-picanha-na-manteiga
