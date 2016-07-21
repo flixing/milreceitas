@@ -12,7 +12,7 @@
 * 12 fatias de mussarela (ou a gosto)
 * 1/2 caixa de creme de leite
 * 1 tomate grande cortado em rodelas
-* orégano a gosto
+* orégano a <gosto></gosto>
 
 ##MODO DE PREPARO
 
@@ -24,5 +24,4 @@
 
 ## BOM APETITE.
 
-## [FACEBOOK](https://www.facebook.com/MilReceitas)
-## [INSTAGRAM](https://www.instagram.com/milreceitas)
+### [FACEBOOK](https://www.facebook.com/MilReceitas) -- [INSTAGRAM](https://www.instagram.com/milreceitas)
