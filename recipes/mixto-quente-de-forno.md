@@ -24,4 +24,4 @@
 
 ## BOM APETITE.
 
-### [FACEBOOK](https://www.facebook.com/MilReceitas) -- [INSTAGRAM](https://www.instagram.com/milreceitas)
+### [FACEBOOK](https://www.facebook.com/MilReceitas) | [INSTAGRAM](https://www.instagram.com/milreceitas) | [TWITTER](https://twitter.com/1kreceitas)
