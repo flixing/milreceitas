@@ -1,4 +1,4 @@
-# DIRETÓRIO E RECEITAS DA PÁGINA [@MilReceitas] (https://www.facebook.com/MilReceitas)
+# DIRETÓRIO DE RECEITAS DA PÁGINA [@MilReceitas] (https://www.facebook.com/MilReceitas)
 
 As melhores e mais fáceis receitas da internet.
 
